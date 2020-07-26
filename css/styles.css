@@ -118,6 +118,10 @@
 #portfolio-row2{
     padding: 25px;
     margin: 25px;
-    
-
+}
+footer{
+    text-align: center;
+}
+.socials{
+    float: left;
 }
