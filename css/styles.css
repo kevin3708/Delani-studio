@@ -1,0 +1,123 @@
+.container{
+    align-items: center;
+}
+.design{
+    display: none;
+}
+#design-header{
+    text-align: center;
+}
+.development{
+    display: none;
+}
+#development-header{
+    text-align: center;
+}
+.product{
+    display: none;
+}
+#product-header{
+    text-align: center;
+}
+#portfolio-row{
+    margin: 0px;
+}
+#image1{
+    padding: 0px;
+}
+#image1{
+    padding: 0px;
+}
+#image2{
+    padding: 0px;
+}
+#image3{
+    padding: 0px;
+}
+#image4{
+    padding: 0px;
+}
+#intro{
+    background-image: url('h_img.jpg');
+    background-size: 1000px;
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 1000px;
+    padding: 15px;
+    margin: 10px;
+}
+#welcome{
+    color: white;
+    text-align: center;
+}
+#intro1{
+    padding: 15px;
+    color: white;
+    text-align: center;
+
+}
+#intro2{
+    padding:none;
+    color:white;
+    text-align: center;
+}
+#mouseclick{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: none;
+    
+}
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5%
+}
+#about{
+    text-align: center;
+    text-size-adjust: 5px;
+    padding: 10px;
+    width: 900px;
+}
+#services{
+    background-image: url('s_image.jpg');
+    background-size: 1200px;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    height: 300px;
+    width: 1000px;
+    padding: 50px;
+    margin: 25px;
+}
+#contacts{
+    background-image: url('c_image.jpg');
+    padding: 40px;
+    border-width: 50px;
+    height: 600px;
+}
+#message-form{
+    
+}
+#title{
+    text-align: center;
+}
+#what-we-do{
+    text-align: center;
+}
+#offered{
+    padding: 20px;
+    margin: 10px;
+    
+}
+#portfolio-row{
+    padding: 25px;
+    margin: 25px;
+}
+#portfolio-row2{
+    padding: 25px;
+    margin: 25px;
+    
+
+}
